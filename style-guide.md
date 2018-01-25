@@ -15,4 +15,4 @@ Naming
 
 - All files should be named following the scheme `/langCode/elements/ElementName.md`
 
-It is alright to submit unfinished articles however these should be be named `/langCode/elements/_incomplete-ElementName.md`
+It is alright to submit unfinished articles however these should be be named `/langCode/elements/_Incomplete-ElementName.md`
