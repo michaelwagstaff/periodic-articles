@@ -14,7 +14,7 @@ Articles should be written in a markdown format and should follow the style show
 
 ### Not using git
 
-Please first check the /en/elements folder to see which articles have already been written.
+Please first check the `/en/elements` folder to see which articles have already been written.
 
 You can either send me articles via email(michaelwagstaff2000@gmail.com) or upload them to [my Google Drive](https://drive.google.com/drive/folders/1CG8-omNRdgcOgsjT7p7TjmCFCHMyVehy?usp=sharing). From here I will upload the articles and add them to my site.
 
