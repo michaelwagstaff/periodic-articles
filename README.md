@@ -2,7 +2,7 @@
 
 This repository is a collection of articles, created for use on my website [periodicstats.com](https://periodicstats.com)
 
-Please contribute an article or correction if you have time, inclusing all the subheadings found in the article for Lithium.
+Please contribute an article or correction if you have time.
 
 ## Contributing
 
@@ -10,7 +10,7 @@ Please contribute an article or correction if you have time, inclusing all the s
 
 Fork the repository, make your changes, commit with a description of the changes and open a pull request.
 
-Articles should be written in a markdown format and should follow the style shown in lithium.md.
+Articles should be written in a markdown format and should follow the style shown in lithium.md, aiming to contain a similar amount of detail.
 
 ### Not using git
 
@@ -24,7 +24,7 @@ Also feel free to email me or upload a document to the google drive with an expa
 
 ## License
 
-This project is licensed under creative commons so feel free to use it for your projects, provided you provide attribution. If you do use this, I would appreciate you encouraging users to contribute if possible.
+This project is licensed under creative commons so feel free to use it for your projects, provided you include attribution. If you do use this, I would appreciate you encouraging users to contribute if possible.
 
 ## Future Additions
 
